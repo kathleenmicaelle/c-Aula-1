@@ -1,0 +1,32 @@
+C# 
+
+fremework
+.net
+
+-conjunto de blibliotecas que abordam funcionalidade e estruturas
+
+
+BYTE CODE?
+ compilação de CIL para clr
+
+linguagem em c#
+ Consaole writeline ("10 + 10");
+ console.writelino (10 + 10);
+ console.readline  ( );
+
+10+ 10 = 20
+
+
+encapsulamento: 
+esconder detalhes do objeto que são desnecessarios "junta e imprime ma tela"
+
+herença:
+copia da classe + novos atributos
+
+poliformismo:
+pode assumir varias formas diferentes
+
+
+dica: criar um arquivo ou comentar o que cada variavem significa
+
+unsafe palavra revervada
